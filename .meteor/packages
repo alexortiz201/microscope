@@ -10,4 +10,5 @@ underscore
 less
 iron:router
 sacha:spin
+reactive-dict
 
